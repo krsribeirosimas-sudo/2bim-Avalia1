@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: ketlyn ribeiro de simas 
+RA: 2026107772
+URL: https://2bim-avalia1-ddq.pages.dev
